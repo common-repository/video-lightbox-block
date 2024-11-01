@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/blocks/popup/edit.js:102
+msgid "Editor Modal Preview"
+msgstr ""
+
+#: src/blocks/popup/edit.js:1079
+msgid "Read more"
+msgstr ""
+
+#: src/blocks/popup/edit.js:110
+msgid "Modal Preview"
+msgstr ""
+
+#: src/blocks/popup/edit.js:133
+msgid "Modal Content"
+msgstr ""
+
+#: src/blocks/popup/edit.js:238
+msgid "Upload Custom Video"
+msgstr ""
+
+#: src/blocks/popup/edit.js:277
+msgid "Autoplay on Page Load"
+msgstr ""
+
+#: src/blocks/popup/edit.js:320
+msgid "Global Style"
+msgstr ""
+
+#: src/blocks/popup/edit.js:380
+msgid "Global Configuration"
+msgstr ""
+
+#: src/blocks/popup/edit.js:388
+msgid "Fullscreen Preview"
+msgstr ""
+
+#: src/blocks/popup/edit.js:457
+msgid "enable sdk"
+msgstr ""
+
+#: src/blocks/popup/edit.js:479
+msgid "auto pause"
+msgstr ""
+
+#: src/blocks/popup/edit.js:501
+msgid "auto play"
+msgstr ""
+
+#: src/blocks/popup/edit.js:523
+msgid "muted play"
+msgstr ""
+
+#: src/blocks/popup/edit.js:589
+msgid "loop "
+msgstr ""
+
+#: src/blocks/popup/edit.js:655
+msgid "embed code XHTML"
+msgstr ""
+
+#: src/blocks/popup/edit.js:756
+msgid "Configuration  & Style"
+msgstr ""
+
+#: src/blocks/popup/edit.js:764
+msgid "Mute"
+msgstr ""
+
+#: src/blocks/popup/edit.js:786
+msgid "Autoplay"
+msgstr ""
+
+#: src/blocks/popup/edit.js:808
+msgid "captions"
+msgstr ""
+
+#: src/blocks/popup/edit.js:830
+msgid "controls"
+msgstr ""
+
+#: src/blocks/popup/edit.js:852
+msgid "keyboard controls"
+msgstr ""
+
+#: src/blocks/popup/edit.js:899
+msgid "annotations"
+msgstr ""
+
+#: src/blocks/popup/edit.js:921
+msgid "fullscreen button"
+msgstr ""
+
+#: src/blocks/popup/edit.js:943
+msgid "related videos"
+msgstr ""
+
+#: src/blocks/popup/edit.js:947
+msgid "Off"
+msgstr ""
+
+#: src/blocks/popup/edit.js:965
+msgid "color of bar"
+msgstr ""
+
+#: src/blocks/popup/edit.js:968
+msgid "white"
+msgstr ""
+
+#: src/blocks/popup/edit.js:969
+msgid "red"
+msgstr ""
+
+#: src/blocks/popup/edit.js:987
+msgid "YouTube logo"
+msgstr ""
+
+#: src/blocks/popup/edit.js:990
+msgid "On"
+msgstr ""
+
+#: src/blocks/popup/edit.js:991
+msgid "off"
+msgstr ""
+
+#: src/blocks/popup/index.js:34
+msgid "Video Popup - Modal - LightBox Block"
+msgstr ""
+
+#: src/blocks/popup/index.js:35
+msgid ""
+"WordPress video lightbox - popup - modal player blocks for WordPress "
+"gutenberg blocks and WordPress gutenberg template library"
+msgstr ""
+
+#: src/blocks/popup/index.js:38
+msgid "Popup video player"
+msgstr ""
+
+#: src/blocks/popup/index.js:39
+msgid "Modal video player"
+msgstr ""
+
+#: src/blocks/popup/index.js:40
+msgid "Lightbox video player"
+msgstr ""
+
+#: src/blocks/popup/index.js:41
+msgid "Popup video"
+msgstr ""
+
+#: src/blocks/popup/index.js:42
+msgid "Modal video"
+msgstr ""
+
+#: src/blocks/popup/index.js:43
+msgid "Lightbox video"
+msgstr ""
+
+#: src/blocks/popup/index.js:44
+msgid "Popup player"
+msgstr ""
+
+#: src/blocks/popup/index.js:45
+msgid "Modal player"
+msgstr ""
+
+#: src/blocks/popup/index.js:46
+msgid "Lightbox player"
+msgstr ""
+
+#: src/blocks/popup/index.js:47
+msgid "mp4"
+msgstr ""
+
+#: src/blocks/popup/index.js:48
+msgid "webm"
+msgstr ""
+
+#: src/blocks/popup/index.js:49
+msgid "ogv"
+msgstr ""
+
+#: src/blocks/popup/index.js:50
+msgid "hls"
+msgstr ""
+
+#: src/blocks/popup/index.js:51
+msgid "dash"
+msgstr ""
+
+#: src/blocks/popup/index.js:66
+msgid "Watch Now."
+msgstr ""
